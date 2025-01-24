@@ -1,1 +1,1 @@
-# jogo-do-numero-secreto
+Projeto do jogo do número secreto
